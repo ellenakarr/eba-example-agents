@@ -10,9 +10,7 @@ The Warehouse schema model that is shown here represents a Sales/Warehouse datab
 Sample Questions:
 
 which products have higher price than IPHONE; show product type
-
 what is the name of manufacturer that has manufactured lower number of products than APPLE
-
 what manufacturer manufactured more than 2 products; add manufacturer name
 
 what products have prices greater than GALAXYTAB;  add product type and price
